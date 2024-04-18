@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: DarkSlateGray;
     color: #212529;
     font-size: 2rem;
     font-weight: 400;
@@ -19,7 +19,7 @@ body {
 
 
 button, input[type="submit"] {
-    background-color: #5aabf1;
+    background-color: aqua;
     border: 1px solid transparent;
     border-radius: 0.25rem;
     font-size: 0.95rem;
@@ -48,7 +48,7 @@ input[type="text"]:hover, input[type="number"]:hover {
 }
 
 table {
-    background-color: transparent;
+    background-color: azure;
     margin-bottom: 1rem;
     width: 100%;
 }
@@ -68,7 +68,7 @@ td.footer{
 	background-color:#eeeeee;
 	font-size: .75rem;
 	padding: 0.75rem;
-	font-family:Roboto,arial,sans-serif;
+	font-family:Arial, Helvetica, sans-serif;
 	color: #70757a;
 }
 
